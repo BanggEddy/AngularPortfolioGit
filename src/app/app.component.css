@@ -33,7 +33,7 @@
     display: flex;
     align-items: center;
     background-color: #000000;
-    color: white;
+    color: rgb(43, 211, 43);
     font-weight: 600;
   }
 
@@ -100,6 +100,7 @@
     align-items: center;
     transition: all 0.2s ease-in-out;
     line-height: 24px;
+    color: ;
   }
 
   .card-container .card:not(:last-child) {
@@ -117,7 +118,10 @@
 
   .card-container .card:not(.highlight-card):hover {
     transform: translateY(-3px);
-    box-shadow: 0 4px 17px rgba(0, 0, 0, 0.35);
+    box-shadow: 10px 5px 5px rgb(43, 211, 43,43);
+    color: rgb(43, 211, 43,43);
+    background-color: #000000;
+    transition: 1s;
   }
 
   .card-container .card:not(.highlight-card):hover .material-icons path {
@@ -126,7 +130,7 @@
 
   .card.highlight-card {
     background-color: #000000;
-    color: white;
+    color: rgb(43, 211, 43);
     font-weight: 600;
     border: none;
     width: auto;
