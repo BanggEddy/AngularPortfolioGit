@@ -6,10 +6,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
-body{
-  background-image: url("../assets/backgrounddebian.png");
-  background-size: cover;
-}
+
   h1,
   h2,
   h3,
@@ -18,12 +15,10 @@ body{
   h6 {
     margin: 8px 0;
   }
-a{
-  color: rgb(43, 211, 43);
-  text-decoration: dashed;
-}
+
   p {
     margin: 0;
+    font-size: large;
   }
 
   .spacer {
@@ -31,9 +26,6 @@ a{
   }
 
   .spacerlogo {
-    flex: 0.01;
-  }
-    .spacernav {
     flex: 0.01;
   }
   .toolbar {
