@@ -1,6 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 body{
     background-image: url("../src/assets/backgrounddebian.png");
-    background-size: cover;
+  background-size:contain;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-attachment:fixed;
+  
     
   }

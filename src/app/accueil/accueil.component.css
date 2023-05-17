@@ -8,7 +8,9 @@
 }
 
 h1,
-h2,
+h2{
+  color:#e4e4e4;
+}
 h3,
 h4,
 h5,
@@ -236,6 +238,7 @@ svg#clouds {
   svg#rocket-smoke {
     right: 120px;
     transform: rotate(-5deg);
+    
   }
 }
 
