@@ -2,4 +2,4 @@
 
 This is a portfolio on the theme of a Debian operating system, created in May 2023 as a self-taught project using the Angular framework.
 
-![angularfront](https://user-images.githubusercontent.com/108392457/235457193-722f6d3f-96e5-4276-8bc9-93a104fb6540.png)
+![angularpage](https://github.com/BanggEddy/AngularPortfolioGit/assets/108392457/d01efbbf-fa74-4066-b6a6-2577eca51ff0)
